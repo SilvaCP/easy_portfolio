@@ -61,11 +61,11 @@
                 <p>Git Hub</p>
             </a>
             <a href="https://www.linkedin.com/in/carlospereirasilva" target="_blank" rel="noopener noreferrer">
-                <img src="./img/linkedin22.png" alt="github">
+                <img src="./img/linkedin22.png" alt="linkdin">
                 <p>linkedin</p>
             </a>
             <a href="https://www.youtube.com/channel/UCrfC-y7sJva2bc7Yz2B_LYw/featured" target="_blank" rel="noopener noreferrer">
-                <img src="./img/youtube.png" alt="github">
+                <img src="./img/youtube.png" alt="youtube">
                 <p>youtube</p>
             </a>
         
